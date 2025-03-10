@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "🎙️ Offline voice productivity for Windows - dictate text into any app and control a local AI assistant by voice. Manages notes, to-do lists, appointments & reminders. 100% local: faster-whisper + Ollama + SQLite. No cloud, no telemetry. Free and open source alternative to Wispr Flow"
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
+# handle the edge case from the last release
