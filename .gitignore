@@ -8,3 +8,4 @@ tmp/
 *.tmp
 .pytest_cache/
 .cache/
+.vscode/
